@@ -42,3 +42,6 @@ References
 1. Iris flower data set - Wikipedia https://en.wikipedia.org/wiki/Iris_flower_data_set
 2. UCI Machine Learning Repository: Iris Data Set https://archive.ics.uci.edu/ml/datasets/iris
 3. Watson Analytics Use Case: The Iris Data Set – IBM Analytics ... https://www.ibm.com/communities/.../watson-analytics-use-case-the-iris-data-set/
+4. Official seaborn tutorial: https://seaborn.pydata.org/tutorial.html
+5. Visualization with Seaborn: https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html
+6. A Beginner's Guide to Unsupervised learning: https://www.kaggle.com/bbhatt001/a-beginner-s-guide-to-unsupervised-learning
